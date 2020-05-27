@@ -5,5 +5,5 @@
 $v1 = 23;
 $v2 = 80;
 
-echo 'This is a test code: ' . $v1. "\n\r";
+echo This is a test code: ' . $v1. "\n\r";
 ?>
