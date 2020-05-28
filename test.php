@@ -1,5 +1,5 @@
 <?php
-#include "sam.php"
+#require "sam.php"
 
 /* this code is to test SAST products */
 
